@@ -56,6 +56,53 @@
 
 ---
 
+## 📊 Візуалізація та графіки (Побудовані артефакти)
+
+У рамках проєкту автоматично згенеровано та збережено 10 ключових візуалізацій:
+
+* 📉 **Динаміка України (`01_ukraine_dynamics.png`):** Показує накопичувальний підсумок (сходинки) хворих та смертей.
+
+  <img width="1200" height="600" alt="01_ukraine_dynamics" src="https://github.com/user-attachments/assets/06001d0f-5732-4f1d-bc66-cd9c371b96de" />
+
+* 📊 **Континенти (`02_continents_cases.png`):** Стовпчикова діаграма абсолютних лідерів захворюваності (Азія/Європа).
+
+  <img width="1000" height="600" alt="02_continents_cases" src="https://github.com/user-attachments/assets/61c213fd-3522-45f9-b470-262c36db6a7e" />
+
+* 🗺️ **Теплова карта (`03_correlation_matrix.png`):** Матриця лінійних зв'язків між числовими показниками пандемії та ВВП.
+
+  <img width="800" height="600" alt="03_correlation_matrix" src="https://github.com/user-attachments/assets/8fe4c8fa-e716-4025-b0ed-4eefe194821e" />
+
+* 📈 **Гістограми (`04_histograms.png`):** Логарифмічний розподіл щільності випадків та смертей по країнах світу.
+
+  <img width="1400" height="500" alt="04_histograms" src="https://github.com/user-attachments/assets/a1c52025-45dc-4be8-a2e6-dbb5d3d48c93" />
+
+* 📦 **Boxplot (`05_boxplot.png`):** Ящики з вусами, що виявляють країни-аномалії за смертністю на мільйон населення.
+
+  <img width="1000" height="600" alt="05_boxplot" src="https://github.com/user-attachments/assets/d8dd146c-f725-447e-95cf-e3ddb2962ec2" />
+
+* 📉 **Pairplot (`06_pairplot.png`):** Матриця розсіювання, що доводить нелінійність та кластерну структуру даних.
+
+  <img width="1000" height="1000" alt="06_pairplot" src="https://github.com/user-attachments/assets/e1595506-07e8-4b96-ae02-a9d192da40b3" />
+
+* 🌊 **Тренди 3 країн (`07_trends.png`):** Щоденні хвилі нових випадків та зашумленість ("зигзаги") через вихідні дні.
+
+  <img width="1200" height="1000" alt="07_trends" src="https://github.com/user-attachments/assets/2de2d14d-e544-4675-98b6-aeb7400dd8ac" />
+
+* 🏅 **Топ-10 на мільйон (`08_top10_countries.png`):** Об'єктивне відносне порівняння щільності інфікування у світі.
+
+  <img width="1000" height="600" alt="08_top10_countries" src="https://github.com/user-attachments/assets/db1106c8-4a05-4b78-9c67-90c747e775ec" />
+
+* 🎯 **Матриці плутанини (`09_ml_confusion_matrices.png`):** Оцінка моделей класифікації та пошук мінімального *False Negative*.
+
+  <img width="1200" height="1000" alt="09_ml_confusion_matrices" src="https://github.com/user-attachments/assets/3c6141f4-99eb-4fc4-b5dc-cf2ed4d9274f" />
+
+* 📉 **Аналіз регресії (`10_regression_analysis.png`):** Графік відхилень прогнозів від ідеальної лінії та дзвін розподілу залишків.
+
+  <img width="1400" height="600" alt="10_regression_analysis" src="https://github.com/user-attachments/assets/3fbd55d1-9582-4159-b41b-ff7293575cf2" />
+
+
+---
+
 ## 🔍 Взаємозв'язки та тенденції
 
 ### 1. Аномалії та адміністративні "шпилі"
